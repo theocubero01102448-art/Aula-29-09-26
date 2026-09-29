@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+button {
+    margin: 4px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#caixa {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.destaque {
+    background-color: #ffe066;
+    font-weight: bold;
+    
+}
