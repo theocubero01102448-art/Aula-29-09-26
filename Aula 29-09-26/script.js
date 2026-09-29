@@ -1,4 +1,3 @@
-
 const titulo = document.getElementById('titulo')
 const paragrafo = document.getElementById('paragrafo')
 const caixa = document.getElementById('caixa')
